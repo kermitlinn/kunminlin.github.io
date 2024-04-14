@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Kuang Yaming Honors School(https://dii.nju.edu.cn/) at Nanjing University(https://www.nju.edu.cn/). My research interest includes machine learning, multi-agent reinforcement learning, and human-ai coordination.
+I'm a third year undergraduate student from [Kuang Yaming Honors School](https://dii.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). My research interest includes machine learning, multi-agent reinforcement learning, and human-ai coordination.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](kunminlinn@gmail.com) / [Github](https://github.com/kunminlinn) 
 
 A data-driven personal website
 ======
